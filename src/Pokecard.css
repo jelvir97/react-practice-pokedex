@@ -1,0 +1,22 @@
+.Pokecard{
+    border-radius: 10px;
+    background-color: gainsboro;
+    margin: 15px;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.Pokecard-Name{
+    color: blue;
+    margin: 1px;
+}
+
+.Pokecard-Type {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.Pokecard-Exp {
+    margin-top: 0px;
+}
